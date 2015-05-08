@@ -1,6 +1,6 @@
 c4rt
 ****
 
-Portfolio: Textures, Themes, Templates... Art Gallery.
+Textures, Themes, Templates... Gallery.
 *********
-# Base for the others projects.
+# Bases for others projects.
